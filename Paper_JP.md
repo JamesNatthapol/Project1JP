@@ -84,7 +84,7 @@ All audio is processed through a fixed pipeline:
 
 ---
 
-## 4. PMETHODOLOGY
+## 4. METHODOLOGY
 
 ### 4.1 System Overview
 
